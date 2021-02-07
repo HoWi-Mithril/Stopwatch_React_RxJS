@@ -1,0 +1,12 @@
+
+.timer {
+    font-family: 'Share Tech Mono', monospace;
+    color: #daf6ff;
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0); 
+}
+
+.timer span {
+    letter-spacing: 0.05em;
+    font-size: 80px;
+    padding: 5px 0;
+}

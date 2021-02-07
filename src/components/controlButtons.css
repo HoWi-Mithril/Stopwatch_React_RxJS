@@ -1,0 +1,28 @@
+.controlButtons {
+    margin: 20px 0;
+}
+
+.btn {
+    margin: 5px 10px;
+    padding: 10px;
+    min-width: 120px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    color: #0f3854;
+    background-color: #daf6ff;
+    border-radius: 5px;
+
+    box-shadow: 0 0 10px rgba(10, 175, 230, 1),  0 0 10px rgba(10, 175, 230, 0);
+
+}
+
+.btn:active{
+    color: white;
+    background: #0f3854;
+    border-color: black;
+  }
+  
+  button:focus{
+    outline: none;
+  }
